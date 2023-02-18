@@ -1,1 +1,2 @@
-pdf2image
+pdf2image==1.16.2
+Pillow==9.4.0
